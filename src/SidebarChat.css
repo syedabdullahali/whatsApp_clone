@@ -1,0 +1,20 @@
+.sidebarChat{
+display: flex;
+padding: 20px;
+align-items: center;
+cursor: pointer;
+border-bottom: 1px solid rgb(204, 202, 202);
+}
+
+.sidebarChat:hover{
+    background-color: #ebebeb;
+}
+.contact{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background: url('https://icons.veryicon.com/png/o/internet--web/iview-3-x-icons/md-contact.png');
+    margin-right: 20px;
+    background-size: 100%;
+
+}
