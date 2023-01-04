@@ -1,20 +1,18 @@
 .sidebarChat{
 display: flex;
-padding: 20px;
 align-items: center;
+
 cursor: pointer;
+
+padding: 20px;
 border-bottom: 1px solid rgb(204, 202, 202);
 }
 
 .sidebarChat:hover{
-    background-color: #ebebeb;
+    background-color: rgb(231,233,236);
 }
-.contact{
-    height: 45px;
-    width: 45px;
-    border-radius: 50%;
-    background: url('https://icons.veryicon.com/png/o/internet--web/iview-3-x-icons/md-contact.png');
-    margin-right: 20px;
-    background-size: 100%;
 
+.sidebarChat__info >h2{
+font-size: 16px;
+margin-bottom: 8px;
 }

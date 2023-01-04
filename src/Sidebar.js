@@ -38,7 +38,7 @@ const Sidebar = () => {
          
          <div className="sidebar__chat">
 
-               <SidebarChat/>
+               <SidebarChat addNewChat={'hello'} />
                <SidebarChat/>
                <SidebarChat/>
                <SidebarChat/>
