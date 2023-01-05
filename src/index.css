@@ -1,5 +1,7 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap'); 
 *{
   box-sizing: border-box;
+  font-family: 'Inter';
 }
 
 body {
@@ -17,7 +19,7 @@ body {
 
   border-radius: 50%;
   margin-right: 20px;
-  
+
   background-size: 100%;
   overflow: hidden;
 }
